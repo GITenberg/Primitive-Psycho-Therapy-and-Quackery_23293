@@ -1,0 +1,30 @@
+_repo: Primitive-Psycho-Therapy-and-Quackery_23293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, Robert Means
+    birthdate: 1847
+    deathdate: 1935
+    gutenberg_agent_id: '25790'
+    url: http://www.gutenberg.org/2009/agents/25790
+description: ''
+gutenberg_issued: '2007-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23293'
+  lccn: '10023963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental healing'
+- !lcsh 'Medicine -- History'
+- !lcc 'R'
+- !lcsh 'Medical misconceptions'
+- !lcsh 'Quacks and quackery'
+title: Primitive Psycho-Therapy and Quackery
+url: http://www.gutenberg.org/ebooks/23293
